@@ -11,9 +11,8 @@ This project focuses on building a predictive model to assess the likelihood of 
 - [Libraries Used](#libraries-used)
 - [Methodologies](#methodologies)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [How to Contribute](#how-to-contribute)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Libraries Used
 
