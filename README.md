@@ -30,9 +30,6 @@ The project begins with a thorough preprocessing of the dataset using pandas, in
 
 Logistic regression is employed for predictive modeling. The scikit-learn library is utilized for building and training the logistic regression model, evaluating its performance, and interpreting coefficients.
 
-### Manual Implementation (Optional)
-
-A manual implementation of logistic regression using pandas and numpy is provided for educational purposes. This section demonstrates a fundamental understanding of the logistic regression process beyond library usage.
 
 ## Getting Started
 
